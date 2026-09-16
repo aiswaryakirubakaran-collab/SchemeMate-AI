@@ -1,0 +1,6 @@
+{
+  "name": "SchemeMate AI",
+  "description": "AI-powered platform helping small and marginalized entrepreneurs in India discover, compare, and apply for government schemes with match scoring and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
